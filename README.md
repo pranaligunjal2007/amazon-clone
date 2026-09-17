@@ -61,24 +61,41 @@ The Amazon Clone homepage will open in your browser.
 Through this project, I practiced:
 
 Creating web pages using HTML5
+<br>
 Styling webpages using CSS3
+<br>
 Working with Flexbox
+<br>
 Creating navigation bars and sections
+<br>
 Using images as website assets
+<br>
 Organizing project files
+<br>
 Using Git and GitHub for project management
+<br>
+<br>
 🔮 Future Improvements
 
 Possible future enhancements include:
 
 User authentication
+<br>
 Product search functionality
+<br>
 Product details pages
+<br>
 Shopping cart functionality
+<br>
 Add-to-cart functionality
+<br>
 Payment integration
+<br>
 JavaScript-based interactions
+<br>
 Backend and database integration
+<br>
+<br>
 👩‍💻 Author
 
 Pranali Gunjal
