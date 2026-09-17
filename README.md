@@ -9,18 +9,31 @@ Note: This project is created for educational and practice purposes. It is not a
 The Amazon Clone project was developed to practice and demonstrate fundamental front-end web development skills, including HTML page structure, CSS styling, layouts, images, navigation elements, and responsive design concepts.
 
 ✨ Features
+<br>
 🏠 Amazon-inspired homepage
+<br>
 🔍 Search bar interface
+<br>
 📦 Product/category sections
+<br>
 🖼️ Hero banner section
+<br>
 🛒 Shopping-cart interface
+<br>
 📍 Navigation and location section
+<br>
 📱 Responsive layout
+<br>
 🎨 CSS-based styling and layout
+<br>
 🛠️ Technologies Used
+<br>
 HTML5 – Website structure and content
+<br>
 CSS3 – Styling, layout, and design
+<br>
 Git & GitHub – Version control and project hosting
+<br>
 📂 Project Structure
 amazon-clone/
 │
